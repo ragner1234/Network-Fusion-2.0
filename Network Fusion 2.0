@@ -705,7 +705,7 @@
             const whatsappMessage = `Hello! I'm interested in your services.%0A%0AName: ${name}%0AEmail: ${email}%0APhone: ${phone}%0AService: ${service}%0A%0AProject Details:%0A${message}`;
             
             // Open WhatsApp (replace with your actual number)
-            window.open(`https://wa.me/923XXXXXXXXX?text=${whatsappMessage}`, '_blank');
+            window.open(`https://wa.me/923198429281text=${whatsappMessage}`, '_blank');
             
             // Also send email (you'd need backend for this)
             alert('Thank you for your inquiry! We will contact you shortly via WhatsApp or email.');
